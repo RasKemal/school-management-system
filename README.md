@@ -1,4 +1,4 @@
-#School Management System
+# School Management System
 A project built in C Programming Language that organises and manages school system.
 
 In this project I used file operations and relational database.
