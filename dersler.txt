@@ -1,0 +1,7 @@
+1010 BBG 4 120 1
+3010 VeriBilimi 3 90 5
+4000 Assembly 3 100 3
+5050 LojikDevreler 3 100 3
+7000 YapayZeka 5 70 5
+4444 Islemciler 4 90 1
+3020 SiberGuvenlik 5 80 1

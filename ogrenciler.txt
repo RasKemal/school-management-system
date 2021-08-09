@@ -1,0 +1,4 @@
+20 Alperen Vardarli 1 3
+30 Yusuf Yortac 1 4
+40 Selen Boyraz 2 9
+50 Yigit Tek 1 5
